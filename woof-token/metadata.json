@@ -2,18 +2,17 @@
   "name": "WOOF PACK",
   "symbol": "WOOF",
   "description": "WOOF PACK is a community-driven Solana token with fixed supply, future burn mechanism and audit roadmap.",
-  "image": "https://PLACEHOLDER_IMAGE_URL.png",
-  "external_url": "https://PLACEHOLDER_PROJECT_URL.com",
+  "image": "https://raw.githubusercontent.com/mickeyhintzmann-crypto/WOOF-PACK/main/woof-token/woof.png",
+  "external_url": "https://github.com/mickeyhintzmann-crypto/WOOF-PACK",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://PLACEHOLDER_IMAGE_URL.png",
+        "uri": "https://raw.githubusercontent.com/mickeyhintzmann-crypto/WOOF-PACK/main/woof-token/woof.png",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
 }
-
